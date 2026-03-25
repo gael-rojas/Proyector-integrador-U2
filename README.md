@@ -5,3 +5,10 @@ Para este proyecto integrador haremos una animacion llamada "Walk-cycle" que con
 ## Paso 1
 para este paso abriremos Blender y al inciar nos aparecera un recuadro, le daremos en "2D animation", ya que trabajaremos en un entorno de animacion 2D
 ![Imagen de referencia](imagenes/Imagen1.png)
+
+## Paso 2
+Una vez que ya tengamos nuestro entorno para trabajar se debera de ver algo asi:
+
+![Imagen del entorno](imagenes/Imagen2.png)
+
+Deberemos de cambiar el Draw mode a Object mode, ya que tendremos que agregar primeramente nuestra referencia, esta referencia 
