@@ -45,3 +45,18 @@ Nos posicionamos en el primer frame para empezar a dibujar nuestro primer boceto
 
 Y ya cuando terminemos nuestro primer dibujo nos posicionaremos 3 frames despues del que estamos que en este caso es 1, entonces pondriamos nuestro siguiente dibujo en el frame 4, y asi sucesivamente para todos los demas.
 
+![Continuacion](imagenes/Imagen8.png)
+
+## Paso 8
+
+Una vez que tenemos todos los dibujos seleccionamos el edit mode, nos posicionamos en cada frame que hicimos los dibujos, en este caso si nos posicionamos en el frame 1 nos mostrara el primer dibujo que hicimos, de aqui es Darle a la letra "A" para seleccionar todo nuestro dibujo y despues la letra "G" para moverlo libremente, cada dibujo lo posicionaremos en medio de nuestro plano (Para este caso) porque asi da la ilusion de la animacion.
+
+![Posicionamento de las imagenes](imagenes/Imagen9.1.png)
+
+## Resultado final
+
+Este es nuestro resultado final, al apilar las imagenes y darle play a la animacion se crea el siguiente movimiento que en este caso es de nuestro homerito
+
+<video src="imagenes/homero.mp4" autoplay loop muted playsinline width="100%">
+</video>
+
