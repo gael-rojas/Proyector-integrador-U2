@@ -4,4 +4,4 @@ Para este proyecto integrador haremos una animacion llamada "Walk-cycle" que con
 
 ## Paso 1
 para este paso abriremos Blender y al inciar nos aparecera un recuadro, le daremos en "2D animation", ya que trabajaremos en un entorno de animacion 2D
-![Imagen de referencia](Apoyo_didactico/Imagen1.png)
+![Imagen de referencia](Apoyo didactico/Imagen1.png)
