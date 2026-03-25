@@ -57,5 +57,5 @@ Una vez que tenemos todos los dibujos seleccionamos el edit mode, nos posicionam
 
 Este es nuestro resultado final, al apilar las imagenes y darle play a la animacion se crea el siguiente movimiento que en este caso es de nuestro homerito
 
-![Homerito de Blender caminando](imagenes/homerito.gif)
+![Homerito de Blender caminando](imagenes/homerito2.gif)
 
