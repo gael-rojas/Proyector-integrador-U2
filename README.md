@@ -57,6 +57,6 @@ Una vez que tenemos todos los dibujos seleccionamos el edit mode, nos posicionam
 
 Este es nuestro resultado final, al apilar las imagenes y darle play a la animacion se crea el siguiente movimiento que en este caso es de nuestro homerito
 
-<video src="imagenes/Video.mp4" autoplay loop muted playsinline width="100%">
+<video src="https://github.com/gael-rojas/Proyector-integrador-U2/raw/main/imagenes/Video.mp4" autoplay loop muted playsinline width="100%">
 </video>
 
